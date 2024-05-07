@@ -1,0 +1,10 @@
+# ninja log v5
+12	1721	7367784578785029	CMakeFiles/ClasesAbstractas.dir/Recurso.cpp.obj	4084b401d1c52f50
+34	1714	7367784578713790	CMakeFiles/ClasesAbstractas.dir/Libro.cpp.obj	f166f0f298138d9b
+62	1857	7367784580133941	CMakeFiles/ClasesAbstractas.dir/main.cpp.obj	1a461e72f4da6621
+1858	2189	7367784583463159	ClasesAbstractas.exe	e0770ffebb7ab3d0
+21	1157	7367791629137204	CMakeFiles/ClasesAbstractas.dir/Pelicula.cpp.obj	fad14b661a76ca59
+11	1288	7367791630450563	CMakeFiles/ClasesAbstractas.dir/main.cpp.obj	1a461e72f4da6621
+1289	1566	7367791633164474	ClasesAbstractas.exe	e1b6bf11ebb596c8
+9	1314	7367796684595440	CMakeFiles/ClasesAbstractas.dir/main.cpp.obj	1a461e72f4da6621
+1316	1549	7367796686853595	ClasesAbstractas.exe	e1b6bf11ebb596c8

@@ -1,0 +1,3 @@
+C:/Users/jhigu/OneDrive/Documentos/ClionProyectos/ClasesAbstractas/cmake-build-debug/CMakeFiles/ClasesAbstractas.dir
+C:/Users/jhigu/OneDrive/Documentos/ClionProyectos/ClasesAbstractas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jhigu/OneDrive/Documentos/ClionProyectos/ClasesAbstractas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
